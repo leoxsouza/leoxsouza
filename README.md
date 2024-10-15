@@ -1,16 +1,21 @@
-## Hi there 👋
+🌱 **Atualmente:** Cursando pós-graduação em Inteligência Artificial e Ciência de Dados.
 
-<!--
-**leoxsouza/leoxsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo atual:** Obter a certificação AWS Solutions Architect Professional.
 
-Here are some ideas to get you started:
+💼 **Experiência Principal:** Kotlin, Java, Spring Boot e AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Certificações AWS:**
+- Cloud Practitioner
+- Developer Associate
+- Architect Associate
+- SysOps Administrator Associate
+
+🔧 **Tecnologias e Ferramentas:**
+
+- **Linguagens:** Java, Kotlin, Python, Typescript
+- **Frameworks:** Spring Boot, Angular
+- **Cloud:** AWS (S3, Lambda, EC2, ECS, RDS)
+- **Infraestrutura como Código:** Terraform, AWS CloudFormation
+- **Contêineres e Orquestração:** Docker, Docker Compose, Kubernetes, ECS
+- **Banco de Dados:** MySQL, PostgreSQL, Oracle, DynamoDB
+- **Outras Ferramentas:** Prometheus, Grafana, Jenkins, Git, Maven
