@@ -9,6 +9,7 @@
 - Developer Associate
 - Architect Associate
 - SysOps Administrator Associate
+- Security Specialty
 
 🔧 **Tecnologias e Ferramentas:**
 
