@@ -1,7 +1,5 @@
 🌱 **Atualmente:** Cursando pós-graduação em Inteligência Artificial e Ciência de Dados.
 
-🎯 **Objetivo atual:** Obter a certificação AWS Solutions Architect Professional.
-
 💼 **Experiência Principal:** Kotlin, Java, Spring Boot e AWS.
 
 🎓 **Certificações AWS:**
@@ -10,6 +8,7 @@
 - Architect Associate
 - SysOps Administrator Associate
 - Security Specialty
+- AWS Solutions Architect Professional
 
 🔧 **Tecnologias e Ferramentas:**
 
