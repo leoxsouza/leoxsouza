@@ -1,21 +1,21 @@
-🌱 **Atualmente:** Cursando pós-graduação em Inteligência Artificial e Ciência de Dados.
+🌱 **Currently:** Pursuing a postgraduate degree in Artificial Intelligence and Data Science.  
 
-💼 **Experiência Principal:** Kotlin, Java, Spring Boot e AWS.
+💼 **Main Experience:** Kotlin, Java, Spring Boot, and AWS.  
 
-🎓 **Certificações AWS:**
-- Cloud Practitioner
-- Developer Associate
-- Architect Associate
-- SysOps Administrator Associate
-- Security Specialty
-- AWS Solutions Architect Professional
+🎓 **AWS Certifications:**  
+- Cloud Practitioner  
+- Developer Associate  
+- Architect Associate  
+- SysOps Administrator Associate  
+- Security Specialty  
+- AWS Solutions Architect Professional  
 
-🔧 **Tecnologias e Ferramentas:**
+🔧 **Technologies & Tools:**  
 
-- **Linguagens:** Java, Kotlin, Python, Typescript
-- **Frameworks:** Spring Boot, Angular
-- **Cloud:** AWS (S3, Lambda, EC2, ECS, RDS)
-- **Infraestrutura como Código:** Terraform, AWS CloudFormation
-- **Contêineres e Orquestração:** Docker, Docker Compose, Kubernetes, ECS
-- **Banco de Dados:** MySQL, PostgreSQL, Oracle, DynamoDB
-- **Outras Ferramentas:** Prometheus, Grafana, Jenkins, Git, Maven
+- **Languages:** Java, Kotlin, Python, TypeScript  
+- **Frameworks:** Spring Boot, Angular  
+- **Cloud:** AWS (S3, Lambda, EC2, ECS, RDS)  
+- **Infrastructure as Code:** Terraform, AWS CloudFormation  
+- **Containers & Orchestration:** Docker, Docker Compose, Kubernetes, ECS  
+- **Databases:** MySQL, PostgreSQL, Oracle, DynamoDB  
+- **Other Tools:** Prometheus, Grafana, Jenkins, Git, Maven  
